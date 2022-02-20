@@ -5,7 +5,7 @@
 
 ## Description:
 I Built this Web App the Model View Controller (MVC) architecture to render the UI components logic with React.
-For the beauty I'm working with CSS, Styled Components, AOS, Bootstrap, Reactstrap.
+For the beauty I'm working with CSS, AOS, Bootstrap, Reactstrap.
 
 Used Fetch to request images, videos & pictures of the day from the oficial NASA API using Async/await functions to render it in a reactstrap UI.
 
